@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Room_Start
+comment1.params=player\ preparer
+comment1.target=Room_Start(Player,\ Room_Preparer)
+comment2.params=
+comment2.target=void\ additions()
+numComments=3

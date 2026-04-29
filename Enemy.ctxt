@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=
+comment1.target=void\ move_to_player()
+comment2.params=
+comment2.target=void\ check_dir()
+comment3.params=
+comment3.target=Item\ get_drop()
+comment4.params=
+comment4.target=void\ check_death()
+comment5.params=
+comment5.target=void\ act()
+numComments=6

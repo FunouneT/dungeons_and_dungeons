@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Maze
+comment1.params=width\ height\ startX\ startY
+comment1.target=Maze(int,\ int,\ int,\ int)
+comment2.params=startX\ startY
+comment2.target=void\ generate(int,\ int)
+comment3.params=x\ y\ list
+comment3.target=void\ addNeighbors(int,\ int,\ java.util.List)
+numComments=4

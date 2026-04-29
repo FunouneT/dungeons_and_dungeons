@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Curse_Effect
+comment1.params=target
+comment1.target=Death_Effect(Entity)
+comment2.params=
+comment2.target=int\ getSeconds()
+comment3.params=
+comment3.target=void\ addTime()
+comment4.params=
+comment4.target=void\ update()
+numComments=5

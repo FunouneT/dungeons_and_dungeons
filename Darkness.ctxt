@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Darkness
+comment1.params=size\ transparency
+comment1.target=Darkness(int,\ int)
+comment2.params=tp
+comment2.target=void\ setTP(int)
+comment3.params=
+comment3.target=int\ getTP()
+comment4.params=
+comment4.target=void\ act()
+numComments=5

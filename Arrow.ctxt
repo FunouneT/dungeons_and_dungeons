@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Arrow
+comment1.params=angle_i\ owner_i
+comment1.target=Arrow(int,\ Entity)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Entity
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=damage
+comment2.target=boolean\ do_damage(int)
+comment3.params=
+comment3.target=void\ animating()
+numComments=4

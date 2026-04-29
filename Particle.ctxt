@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Particle
+comment1.params=size
+comment1.target=Particle(int)
+comment2.params=
+comment2.target=void\ fade()
+comment3.params=
+comment3.target=void\ act()
+numComments=4

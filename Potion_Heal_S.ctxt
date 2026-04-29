@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Potion_Heal_S
+comment1.params=owner_i
+comment1.target=Potion_Heal_S(Entity)
+comment2.params=
+comment2.target=void\ effect()
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Minotaur
+comment1.params=
+comment1.target=Minotaur()
+comment2.params=
+comment2.target=int\ findClosestPointInPath()
+comment3.params=
+comment3.target=boolean\ update_path()
+comment4.params=
+comment4.target=void\ move_to_player()
+comment5.params=
+comment5.target=void\ check_death()
+comment6.params=
+comment6.target=boolean\ intersect_player()
+comment7.params=
+comment7.target=void\ act()
+numComments=8

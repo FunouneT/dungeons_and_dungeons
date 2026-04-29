@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Room_Preparer
+comment1.params=room_num\ preparer
+comment1.target=Room\ get_room(int,\ Room_Preparer)
+comment2.params=room_num
+comment2.target=Room\ get_prev_room(int)
+numComments=3

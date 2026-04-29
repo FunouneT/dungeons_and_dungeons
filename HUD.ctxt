@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HUD
+comment1.params=player_i
+comment1.target=HUD(Player)
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

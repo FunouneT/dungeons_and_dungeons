@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tile_spikes
+comment1.params=size
+comment1.target=Tile_spikes(int)
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+numComments=4
